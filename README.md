@@ -13,9 +13,9 @@ Features:
 
 To Do:
 
-Bug: Right now when application change screen orientation reset game and start again. When added android:configChanges="orientation|screenSize" in Android Manifest file when orientation has change game still continue but load wrong layout file. Without this attribute work well but when orientation change game is restarted.
+Bug: Right now when application change screen orientation rese game start again. When added android:configChanges="orientation|screenSize" in Android Manifest file and change screen orientation game still continue but load wrong layout file. Without this attribute work well but when orientation change game is restarted.
 
 * coin flip animation;
-* button click sound;
+* button click soundS;
 * Win or Loose sounds;
 * Improve app design;
